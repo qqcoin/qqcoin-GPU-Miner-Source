@@ -1,4 +1,4 @@
-qqcoin-GPU-Miner-Source
-=======================
+GPU-Miner-Source
+================
 
-QQCoin GPU Miner Source
+GPU Miner Source Code
